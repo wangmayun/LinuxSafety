@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# LinuxgeV1.0
+# LinuxgeV1.0  2020.12.5
 # 适用于Linux服务器的自动强化脚本
 #
 # Linux哥
