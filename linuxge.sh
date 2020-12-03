@@ -65,13 +65,13 @@ read menu
 case $menu in
 
 1)
-cd UbuntuServer_16.04LTS/
+cd /Ubuntu/UbuntuServer_16.04LTS/
 chmod +x jshielder.sh
 ./jshielder.sh
 ;;
 
 2)
-cd UbuntuServer_18.04LTS/
+cd /Ubuntu/UbuntuServer_18.04LTS/
 chmod +x jshielder.sh
 ./jshielder.sh
 ;;
